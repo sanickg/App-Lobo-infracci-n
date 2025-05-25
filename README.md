@@ -10,10 +10,17 @@ Este proyecto fue desarrollado como parte de una materia universitaria, y su obj
 
 ```plaintext
 PythonProject/
-├── main.py              # Archivo principal
-├── interfaz/            # Contiene la GUI hecha con PyQt o Tkinter
-├── sensores/            # Código Arduino o simulación de sensores
+├── main.py            # Archivo principal
+├──data/               # Base
+    └── fotomultas.db
+├── ui/            # Contiene la GUI hecha con PyQt y Tkinter
+    └── login_window.py
+    └── main_window.py
+    └── photo_gallery.py
+├── sensores/            # Código Arduino o simulación de sensores (por añadir)
+├── exports/             # Bases exportadas
 ├── database/            # Conexión a base de datos y consultas
+│   └── db_manager.py
 ├── logs/
 │   └── error.log        # Registro de errores (IGNORADO en Git)
 ├── .gitignore           # Archivos excluidos del repositorio
