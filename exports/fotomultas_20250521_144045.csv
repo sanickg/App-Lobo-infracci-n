@@ -1,0 +1,27 @@
+ID,Placa,Fecha,Velocidad (km/h),Estado
+26,HOLAKK,2025-05-21,250.0,Exceso grave
+25,KLM012,2025-05-14,88.8,Exceso leve
+24,KLM012,2025-05-18,72.9,Normal
+23,HIJ789,2025-05-21,101.5,Exceso moderado
+22,MNO456,2025-05-17,89.9,Exceso leve
+21,PQR789,2025-05-14,94.3,Exceso leve
+20,KLM012,2025-05-13,100.7,Exceso moderado
+19,MNO456,2025-04-28,141.0,Exceso grave
+18,ABC123,2025-05-07,60.5,Normal
+17,ABC123,2025-04-29,62.6,Normal
+16,STU234,2025-05-17,148.4,Exceso grave
+15,DEF321,2025-04-27,146.1,Exceso grave
+14,KLM012,2025-05-01,122.7,Exceso grave
+13,YZA890,2025-05-01,100.9,Exceso moderado
+12,EFG456,2025-05-12,115.7,Exceso moderado
+11,GHI987,2025-04-21,112.2,Exceso moderado
+10,GHI987,2025-05-12,76.4,Normal
+9,DEF321,2025-05-02,115.2,Exceso moderado
+8,VWX567,2025-05-06,76.8,Normal
+7,BCD123,2025-05-12,118.5,Exceso moderado
+6,ABC123,2025-04-22,131.9,Exceso grave
+5,STU234,2025-05-18,87.1,Exceso leve
+4,EFG456,2025-05-04,124.1,Exceso grave
+3,DEF321,2025-05-20,62.0,Normal
+2,KLM012,2025-04-21,100.9,Exceso moderado
+1,YZA890,2025-05-06,71.5,Normal
